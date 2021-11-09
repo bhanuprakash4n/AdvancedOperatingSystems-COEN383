@@ -1,0 +1,378 @@
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -AA--CCCCCCC--------------------------G-------BBBBBB-FFFFFFF-----JJJJJHHHHHH-------EIIIIII---DDDD--- ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -----BBBFFFFFFFBBBBB-------GGGGGLLLLLDDDLLLLLII-HHH------------CCCCCCCC-EEEEEEEE---------JJAAAAAAAAJJJJJJJJ ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --------BBBBBBF---------IIIICCCCCCCCCCMMAALLLLDDDDDDJDJDJDJDJJJLNLNNNNNNNNKHEEEEEEEEKHGGGGGGGKHKHKHKHKHKHKHHH ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ----------EEE--IIIIIIIDDDDDDDDPPHHHHHHHHHJJJJJOOOOOOOOOONNNKKKKKKKKKJCCCCCCBBBBBBCCCPFPAAAAAAGGGLLMMMMMLLLL ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --------GGGG-AAAAAAAHHHHHHHH-------IIIIICCC-OONNNNNNNNNNRROOMMMMMMMMMKPPPPPPPPPPBBBKKQQQKLFKLJJEJEJEJEJEJFKLKLKLKKOOOOO ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --DDDDDDDDD---------GGTGGGGGGGGQQQQQQQQQ--PPPPPPPFFFFFFFIEAAAAAAAAAIIIIIIBBBBBOBOBCOBCROBCROKCOKCOKCOKCKCIII ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ------------NNNSNSHNSHNMMMMUBUDBUDBUDBBBBBSHNVVVVVISHNISRRRRRRRRJJJJJJKJPKJPKKCKCKCKFCKFCCCCHOTAAAAAAAAAAHOTHOTHOTHOTHOT ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -TTTTTTURRUUUUU--Q----VVVVBBKBAXKBXKBXHKBXHKBXHKXHKXHKXHKXKCCCCCCJWFWFWPFNWPFNWPFNWNWNWNNNCJICDDDDDJJJJ ]
+
+populating new processes...
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+J		0.164		8.662		    3
+M		3.523		1.325		    4
+E		5.010		4.878		    1
+I		5.690		9.969		    3
+Z		7.955		5.042		    4
+B		10.276		5.310		    3
+U		11.541		2.196		    1
+Y		12.240		9.833		    1
+D		15.867		7.338		    4
+N		18.639		3.613		    1
+C		21.848		0.653		    1
+S		24.214		7.706		    4
+G		28.308		8.437		    1
+K		37.377		4.997		    2
+R		42.009		8.230		    1
+T		44.733		2.736		    2
+F		51.479		4.565		    1
+V		54.151		0.161		    2
+H		57.200		6.912		    1
+W		59.337		4.419		    1
+O		60.154		1.359		    1
+A		67.924		3.202		    1
+X		68.054		3.853		    1
+L		73.157		6.893		    2
+P		94.449		3.669		    1
+Q		96.451		2.690		    3
+Time Chart : [ -JJJJJEEEEEJUUYUYYYYNYNYCNYNYYGGGGGGGGGKKKKRRRRRRRRRFFFFFKHHHWHOWHOWHWAHXWAXAXAXTVLTLTLLLLLIBJIPPPPBJIBJIBIBIBIIII ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ----DDLLLLLD-IIIHPPPPIIIIIIIRRRRRR--XXFXFWXYFWXYWXYWWSWSWEWEWEWEEEGEGCCCUCUCUCUMCUUTKBTKBTKBTKBTQQNQNNNNKBKBKK ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -FFF-M---PPPPPHZZZZZZZZZZEZCECECECECEJCEJCEJCEJSSSQSQSQHIXHVVVVVVVVVIXHIXHIXHIXHIXKKKKYKYKYKYKOYKOYTOYTYTYTTHIXHXXXPPP ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ---FFFFFFLLEELJJJDJJJJJJJYYLCLCLCLCLCCKKKKKKVVCAAQQOOGOTTTTTTPTPPPPPPPSSSSSSSGORHGORGORGOGOGONNNNNNNNNNAAAAAAAACCC ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -KKKKKKKKKK-SSSVVVVVSUSUSSSSS-----QPPPPQQCGCGCGCGCGBGMBGMBRBRBERBERBXERXXXQTNTONTONTNNLLLWWWWHWHHHHHH ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --------TTTTTTOHWHHHZZZZHHHH--------I-NNQNEEEEUEUEPUPUPUPUKPKPKPKPKKKKKJRJRGRLLLLLLLGRGRGCRGCRGCRGCRGCRCQNQQQQQQQQ ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --------VVV--OOJJJJOOOOO---NNNNXX----BBBBIICCSZZUZUZUZUZZISPISPSPPMLGMGMGMGQQQQQQHQHHHEKEKEKEKEEEEEDDDDDDDDMGMGG ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -------------QQQCC--RRFFFPPPGZGZGZGZGZGGGLMMMMMMMMMLLJJJJJJJLSLSLSLSLVSLVIIIIIIISOOOOOXOXOXOXOOLVSVVVVPPPPPPPFFFFFFF ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ---QQIIIIIIIIIIZGZTGZTHUUUUUYUYUOOGZTGZNNNNNTGZWEECECCCCCJJGZWBGZPPPSSSSSSWGZWGXXXXXXXXXKVKVKVKVKVKVZWGZWWW ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --MMCCCCCCCCCCQAXQAXQXQXQQEYEDYEDDDDMTFLFLFLNNNNNNNNMTMTMMMMMJUUSSSSSUUUUUUIGBBBGGGGRRRRRRGKGKPPPPKKKKKJIJIJIJIJIJIJII ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -----------IIITTCCTTTTRLRFQRFRFRFRFRVVISIMMMMMMMMMMNNNNSIUIUIUPPPPPPJPJZJZJZJZJZJOZJHOZJHOZHOZHOHOOBIUIUUUUU ]
+
+populating new processes...
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+J		0.027		6.378		    4
+F		3.094		3.139		    1
+N		5.557		4.669		    2
+D		13.562		4.685		    1
+Y		14.395		7.541		    4
+A		19.170		4.116		    4
+C		22.548		9.093		    2
+E		27.623		4.193		    1
+O		28.957		9.719		    1
+L		31.536		8.679		    3
+W		33.102		6.887		    4
+M		39.515		3.969		    1
+Z		39.876		5.950		    1
+H		40.454		7.951		    3
+B		46.254		3.884		    1
+K		46.714		5.022		    2
+V		51.855		2.563		    1
+R		53.740		2.617		    1
+U		54.923		1.567		    3
+S		56.987		5.238		    2
+I		57.129		6.429		    1
+T		60.194		9.996		    2
+Q		78.862		2.090		    1
+G		80.506		2.849		    1
+X		83.619		8.863		    3
+P		98.910		7.516		    3
+Time Chart : [ -JJJFFFFNNNNNJDDDDDJYJACCCCCEEOEOEOEOOOOOMZOMZOMZBMZBZVBZRVBRIVRIIIIIICKSTCKSTCQQQGGGKSTCKSTCKSTKSTTTTTYJAYAYAYAYYY ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -ZZ---JJJJJ--OOOOOOOOVOVVVLDLDLRDHHHHHHHLRDFLRDFRAAAAAAAUEEGEGEBGCEBGCEBGYCEYCEYYYYYYYSYDFRUDFRUTRUTRUTRTRT ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ---I------TTTTT--GNNNNFNFNZUUUUPPCPCPPGZZSSSSSSXXXXXXBBBBZZZADMHADMHAMHAMHAVVVVVVVMHRQRQRQRRYYYYYAOMHAOMHOMHOHOHOOOOO ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ----DDDD--HHJTAAAAHXXXXXXXFQFQFVQFVQGFVBZVBZVZVZVZZZZZZEEEEEEXICWXICWXCWCWRRROPROPROPRONROYNRONRONRONRONONCWCWCWWWTH ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -----------------WWWWWWWWLWLLHLHTLHTLHTLKHOZTKOZTKOZTOZMTOZMOMXMXMXXXXXRXRXRPXPPPPPPPPAEDQBIUAEQIVUAEQIUAEQIUAEQIUAEUAUUUU ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --------HHHIEEZNNNNNNZJJJJRJRRRMRMRMRMRMRMRYZCGZCGZCGZCTTTTTTTTGGGGHIQBBBOBBBXUHIFFFQXUIXUIXUIXXPAVKKKKKKKKKKPAPAPAAA ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ------XXXXXXXXXXIII--FFF--SSSSSGGKKKKKKKDDDDDDGRRRRRRJRJRQJRQJRQJQVVVUAVUAVUAVUVUVEUVEUVEEEEEPWBHPBHPBHPBHPHPHPHPH ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -----QQQQQQQQQQLLLLLUKFUKBBJJJJJJJJBBBBBTTBFPHHHHHUDDDDDDDDDDKOMMMMMMMMMMIXIXGGGGGGGGIXRRRRRARANANANANANANANANANIXIXIIIFPKOKOKOKOKOOOO ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ---IIIIIRRRRMRMRMRMRMMFMFMZFZZZZZZZZPPPPIWWJQIJQCIJQCIJQCXJQCXLALALLLKBLEKBLKBKBUKUKUKKKOOOOOQCXHCXHCH ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ----BBBBBBBBLLL--DDDDHDKDDDDRRRJJJJOOJJMAAAAASASASASASSWSWSWSWWWMTMTEEMTXXXXXXTTTQQQQQVYIVIVVVRPNNNNNNNPPPPPPP ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ---KKBKBKBKBKBBXBXBXPXPXPXPCXPCXCXCXCCCCCCJGFFFFFRRRRRTRTRTRTRVTVTVTVTTJGAJGLAJGLJDDDGLYGLGLLLOOOOHWHHHHHHH ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -----------HHHHHH-XXXXXXXXIURWWWWWWWIURNIURNIURNZZZZZZZZCZCZCKCKCKCSEKCSEKSEKSEKEQKEQKAEAEAEAAAAAIURNIURNIURNNNN ]
+
+populating new processes...
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+S		0.689		9.913		    2
+P		5.859		7.003		    1
+Z		8.340		8.157		    1
+G		13.768		3.618		    1
+E		18.998		1.931		    4
+U		28.234		1.817		    4
+C		30.885		2.358		    4
+L		31.754		7.571		    3
+Y		32.489		5.809		    1
+I		35.691		2.540		    3
+Q		42.903		5.259		    1
+R		53.779		9.939		    2
+J		56.497		3.941		    4
+O		57.221		3.329		    1
+A		58.120		8.955		    3
+T		63.679		6.374		    2
+H		68.630		0.923		    2
+M		78.589		9.439		    4
+N		78.706		8.191		    3
+X		79.331		8.788		    3
+D		80.977		2.304		    1
+K		85.801		2.993		    1
+B		86.059		0.166		    2
+W		86.372		2.059		    3
+F		88.471		5.049		    3
+V		91.950		1.541		    1
+Time Chart : [ -SSSSSPPPPZPZPZPGZPGZGZGZZZSSSSSLYYYYYYLILIQQQQQQLILLLRRRROOOORRRTRTRTRHTTTTLAAANDDDAXKKKBNAVVXWFNAXWFNAXWFNAXFNAXFNXFNXNX ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --------WOOOOZOZTOZFZFZFFFFFDDDDDMMJVJLLLLVIAVIAVIAXVIAXVIUUUUUUUAXVIABXVIABXVKKKKKKKKKIACCGGGGGEGEGEEEEEEEEBXVIBXIBXBXXW ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ------PP---Y-ZSZSSXSXSXSQQBBRRRRWRWRWRRRBFLBFLBFLEEFLFLFLFLFLHQUHQUHQANNNNNNNOCCOHKKKKKKKQAJHVQAJVQAJVQAJVJVJVJVVVV ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --------MMMMMMMM--JFJJJJJJJJJVXVVVVVIPPPSPSPSPSPSYSYOSYOYOYOYYYILLLLLLLBNTIGCBKNTIZCAAAAAAAAAHHHHHHHHHHBKNTZCBKNTZCBKNZCKNZCKZCKZKKKVV ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ---O-------YYYYYEEEYYYY-----NNNNNNNNNRRNN--IIIIHHHHHHHHVVVTTTTTTTTTTVZVZZZZZSCDXWWASDXASDXPPAQQQQSDBBBBBBBBXASDXASDXASDXADADD ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ---SSSGSGDJGDJGDJTGDJTDJTDTTTUTUNFNFNFAAAAAAAANFNIFFFFFFMZYMLCLCLCLCLCVLCVLCVLCVLCVLCVVVBHBHZYMPZMPXXMPMPMPMPMPPPP ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --EEVEVEVEVEVEEENNNNNNNNGGGGCGCGCGCGBBBBBBCGCGMHMHHHHHTRRRRJARJAPRJARJARJRJSZRJSZJSZJSZSDZSDZFLDZFLDFLLLLT ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ----RRKKK------LLLLLELLLQLLSHHHHHHHDSDOODDDDAAAPGPGPGG-----UUMMMMMMMMMMUTVVVVUTUTBBBBTTTYWWCCCZNNNFFFFFFNNNNNNNY ]
+
+populating new processes...
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+S		0.382		8.759		    1
+J		9.044		3.784		    3
+T		9.326		2.587		    2
+O		11.256		9.119		    3
+I		20.659		2.357		    1
+H		21.696		2.995		    2
+Q		22.248		0.296		    3
+B		23.054		8.169		    1
+W		25.789		1.764		    1
+N		27.847		5.769		    1
+C		29.611		0.783		    3
+U		44.481		5.286		    1
+G		46.600		2.588		    4
+D		47.994		8.229		    3
+V		48.088		7.641		    1
+E		48.779		1.513		    1
+Y		50.143		7.002		    2
+M		51.423		9.572		    3
+X		54.803		8.358		    1
+P		60.441		0.169		    1
+A		67.781		0.488		    4
+Z		68.270		0.363		    3
+L		68.432		5.053		    4
+K		86.635		8.718		    2
+R		88.142		6.524		    2
+F		89.831		4.447		    1
+Time Chart : [ -SSSSSSSSSTTTJOJOJOJOIIIBBBWBWNBNBNBNBNBNHHHOUUUUUVEUVEVXVXVXVXPVXVXXXXYYYYYYYYQCODMZODKKKFFFFFRKRKRKRKRKRKRMODMODMODMDMDMDMDMM ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ---OORRRRRRR-----SSACXCJJBBAAAAEEEEEEEYYYYYYLHYLHYLHLHLUHLULVLVLZGZGZGGGGDKMDKTNTNTNTNTNTNNNWNWNWWQQQQQQQQWWWMDKMDKDKDKDKKKK ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ------GHH-------NNNQQQQQQQNNNNNNNZLLLJIIILJYLJYLJYLJYLSSCSCSCSCSCSWSSYLPFFFFFFTYLPTTTTTTTTTEEBBBVVVVVVVVVVBBBBBBZZZZZZZZZ ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --EEEEEE--LJJJLLIIIIIRIRIRIRIRYYQYYYTTTTTTFFBFDBFDFDFDFGFGGGYUYUYUYUUUXULPAVKLPZZAVKLPCCCCCHHWHWHMMMMMMMMWWWWWWAVKLPAVKLPAVKLPAVKAVKAVKVKV ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ----GGGYYYYGFGFGFGFGMMMMMMMRCCCCCTRRRWJWJWJWJWJWJWKJWKHJWHJWHHHREQREQREQEQEQPPPPEQQQZZZZZFSSSSSSSSSDDDDDDDDDDFF ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -----------IIRIRIRIRIRRRRRTRTTTHTHTHTHTHHHHUHCAAAVXAFVXAVXAVXAXAXDAEXDEXDEXJDOPJDOPJDOPJMDYPKJMPKMPKMPKMKMKKKCCC ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -------------U---------MMMMMVMVMLMLMLMLLLLKLKKPPCCCCCPPPPBGHHHHHOHOHOHHDBBBBBBRRJBSBEFQYNNNNNNYZZXYXYYYEFQEFQEFQFQFFFFF ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ----UUUUUUU--MM------JJJJJJJ-----LLLLIIIIIZIZIZIZIZZWWWBBBWWWWKWFKFKFKFXEXEHXCCPPPPPPPPTTTTTSRSRSRSRSRSRSRSRSRRCCCEEEEEEELLLL ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ ---------KKKKTFFFFJFJFJHFJHFQJHQJHQQQQQQQYTYYNYYEWOBPBPRBRBRRRIIIIIIIIILMDZZZZZZZZXXXXXXXUXUXUCUCUCUCCCCCCCEWOLMDEWOLMDEOLMDELMDEMDEMEMM ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -----SSS------KKKKKKKKKKUUUUUUDNZDNZDZDZDZDZDZDZWWWWWWQAFQCCCCCAFQVAFVAFVLLAFXXXGXGXGXGXVARYHPYHTYHTYHTYHTYHTHTTTVRVRV ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -RRUUUUUUUYYYYYLYLLLLLWUUUUQQQQVV-------MMM-OOOOXOXOXOXOOEEEEEEE---TZTZTJZTJZTJZTJCZTJCKFDFDFDSFDFFNFNFNFNNNNNNNZTJCKZJKJKKKK ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -------KBBBBBBBBTTTHTTRRRWRUWRUWRUWRUWRUAOYYYYYYAOFFMFMFMFMFAOZIQAOZIQAOZIQAPPPPPPPPXPXPXXXXXXXXXOVZIQAOVZIQAOVZIQAOVZQAOVQOVQBBKKKKKKK ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -----ZZZTTVTVTVTVTVVVVVPRPRPJRGGCCCCCCCXCXNNNNNWNWNFWNKFWNFWHNFWHNFIEWHFIWHFIWHIWHIHHBBBBSYYYYYBSBBBGGPJRPJPJPJP ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --I---LLLLJJJJAJAJL---------WWWWWWWKNNNNNNETTTTPPXPXPXPQXPQXPQXPFQXPFXFXFXFFVBBSZVSCZVSCZVYYYYYYYYYSCZVSCZVSCZVCZV ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ -----LLL-KKKKKKKVV----MMMHHHTHTHATHASTHSTHSBTSBTSBTSTJSTJSJSJSIJSIJDNODNODNODNFFFEEEEEEEDUUUUUUUUUURRRRRRRRRRNDNDNDNNNMMMMM ]
+
+populating new processes...
+Simulation failed because CPU is idle for more than 2 consecutive quanta.
+Time Chart : [ --S--JJJYYYBBBBDJJKK-MMMMRRRRRORORIRINCIECECCUUUUUUUHHHUTUTUTTXTXXXXGGPFPFPZAALALLLLWWWWWWWWWZZZFPVQQQFVFFFFF ]
+
+populating new processes...
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+K		0.009		5.597		    4
+B		0.711		7.130		    2
+T		5.938		1.576		    2
+H		6.906		3.756		    4
+O		15.370		2.891		    2
+N		15.901		4.850		    1
+L		16.380		7.813		    4
+A		18.259		7.268		    3
+X		30.071		0.855		    1
+Q		32.229		5.264		    2
+M		32.417		3.615		    4
+I		43.771		9.040		    3
+U		44.629		5.480		    1
+F		49.312		6.498		    4
+G		56.729		8.008		    1
+V		57.393		5.058		    1
+D		59.790		4.492		    2
+S		65.415		3.622		    4
+J		66.815		0.341		    3
+Y		75.708		7.186		    2
+E		77.868		4.710		    1
+R		80.714		5.615		    3
+Z		83.606		6.144		    3
+C		89.981		9.106		    1
+W		97.748		4.055		    1
+P		98.190		4.750		    4
+Time Chart : [ -BBBBBBTBTBKHKHKNNNNNOOOAAAAAAAXAQQQQQQHKLMHIUUUUUUIIIIIIGGVGVGVGVGVGVGGDDDDDYEEEEEYYYYYYYCCCCCCCCCWCWWWWIIIKLMKLMLMLLLL ]
+Performance metrics for workload 1 :
+	Average Turnaround Time : 8.085
+	Average Waiting Time : 2.820
+	Average Response Time : 0.585
+Performance metrics for workload 2 :
+	Average Turnaround Time : 10.209
+	Average Waiting Time : 5.452
+	Average Response Time : 3.542
+Performance metrics for workload 3 :
+	Average Turnaround Time : 39.485
+	Average Waiting Time : 31.331
+	Average Response Time : 2.985
+Performance metrics for workload 4 :
+	Average Turnaround Time : 84.072
+	Average Waiting Time : 78.877
+	Average Response Time : 12.572
+Average Performance metrics for all workload :
+Average Turnaround Time : 35.463
+Average Waiting Time : 29.620
+Average Response Time : 4.921

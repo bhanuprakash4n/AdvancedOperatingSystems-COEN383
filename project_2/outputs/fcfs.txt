@@ -1,0 +1,248 @@
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+J		0.164		8.662		    3
+M		3.523		1.325		    4
+E		5.010		4.878		    1
+I		5.690		9.969		    3
+Z		7.955		5.042		    4
+B		10.276		5.310		    3
+U		11.541		2.196		    1
+Y		12.240		9.833		    1
+D		15.867		7.338		    4
+N		18.639		3.613		    1
+C		21.848		0.653		    1
+S		24.214		7.706		    4
+G		28.308		8.437		    1
+K		37.377		4.997		    2
+R		42.009		8.230		    1
+T		44.733		2.736		    2
+F		51.479		4.565		    1
+V		54.151		0.161		    2
+H		57.200		6.912		    1
+W		59.337		4.419		    1
+O		60.154		1.359		    1
+A		67.924		3.202		    1
+X		68.054		3.853		    1
+L		73.157		6.893		    2
+P		94.449		3.669		    1
+Q		96.451		2.690		    3
+Time Chart : [ -JJJJJJJJJMMEEEEEIIIIIIIIIIZZZZZZBBBBBBUUUYYYYYYYYYYDDDDDDDDNNNNCSSSSSSSSGGGGGGGGGKKKKKRRRRRRRRRTTTFFFFF ]
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+E		0.477		9.459		    4
+b		7.214		7.201		    4
+M		11.333		9.843		    4
+P		14.776		4.781		    1
+O		16.058		1.696		    4
+K		33.512		3.408		    2
+J		34.113		3.071		    1
+c		35.579		0.999		    1
+A		40.936		6.075		    1
+d		41.263		1.064		    2
+Y		41.584		5.899		    1
+N		48.692		3.774		    2
+G		50.175		1.329		    1
+V		51.699		8.716		    3
+C		52.214		2.403		    4
+e		55.699		8.230		    1
+U		56.672		0.414		    3
+L		56.745		4.953		    1
+R		64.478		3.183		    1
+H		69.545		4.465		    2
+a		73.569		7.289		    2
+I		75.851		1.099		    2
+f		76.167		6.452		    1
+X		80.378		5.357		    3
+S		80.627		9.077		    3
+F		85.018		2.889		    1
+W		86.080		5.969		    2
+Z		87.198		3.481		    4
+Q		87.487		4.341		    1
+D		89.053		2.614		    3
+T		89.221		7.800		    2
+B		91.105		6.915		    1
+Time Chart : [ -EEEEEEEEEEbbbbbbbbMMMMMMMMMMPPPPPOOKKKKJJJJcAAAAAAAddYYYYYYNNNNGGVVVVVVVVVCCCeeeeeeeeeULLLLLRRRRHHHHH ]
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+N		0.027		6.378		    4
+J		3.094		3.139		    1
+R		5.557		4.669		    2
+n		5.964		4.853		    1
+H		13.562		4.685		    1
+c		14.395		7.541		    4
+h		16.968		6.207		    2
+E		19.170		4.116		    4
+G		22.548		9.093		    2
+I		27.623		4.193		    1
+S		28.957		9.719		    1
+P		31.536		8.679		    3
+l		32.201		6.952		    1
+a		33.102		6.887		    4
+j		36.199		3.863		    2
+Q		39.515		3.969		    1
+d		39.876		5.950		    1
+L		40.454		7.951		    3
+F		46.254		3.884		    1
+O		46.714		5.022		    2
+e		48.918		6.245		    1
+Z		51.855		2.563		    1
+V		53.740		2.617		    1
+Y		54.923		1.567		    3
+i		56.275		7.404		    1
+W		56.987		5.238		    2
+M		57.129		6.429		    1
+k		57.728		4.282		    1
+X		60.194		9.996		    2
+f		60.779		2.664		    1
+g		61.451		3.535		    1
+D		68.699		8.258		    1
+U		78.862		2.090		    1
+K		80.506		2.849		    1
+C		83.140		4.587		    4
+A		83.325		9.230		    3
+b		83.619		8.863		    3
+m		86.315		5.419		    3
+B		96.060		8.233		    3
+T		98.910		7.516		    3
+Time Chart : [ -NNNNNNNJJJJRRRRRnnnnnHHHHHcccccccchhhhhhhEEEEEGGGGGGGGGGIIIIISSSSSSSSSSPPPPPPPPPlllllllaaaaaaajjjjQQQQ ]
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+Y		0.689		9.913		    2
+V		5.859		7.003		    1
+f		8.340		8.157		    1
+u		8.792		5.896		    1
+p		9.855		1.427		    3
+t		11.979		7.139		    4
+z		13.277		0.547		    1
+M		13.768		3.618		    1
+l		17.245		6.950		    1
+D		17.935		7.507		    1
+K		18.998		1.931		    4
+A		22.605		6.722		    2
+s		24.092		1.069		    2
+j		26.533		4.189		    1
+a		28.234		1.817		    4
+C		28.561		6.612		    1
+I		30.885		2.358		    4
+R		31.754		7.571		    3
+e		32.489		5.809		    1
+O		35.691		2.540		    3
+x		37.211		2.668		    4
+r		37.630		3.611		    1
+o		37.651		9.729		    3
+g		41.308		7.541		    3
+W		42.903		5.259		    1
+F		47.889		9.448		    1
+E		52.819		0.343		    3
+X		53.779		9.939		    2
+P		56.497		3.941		    4
+w		57.067		0.746		    4
+U		57.221		3.329		    1
+G		58.120		8.955		    3
+v		58.177		5.996		    4
+Z		63.679		6.374		    2
+h		65.310		5.138		    3
+N		68.630		0.923		    2
+n		73.571		9.904		    4
+q		77.764		8.042		    2
+S		78.589		9.439		    4
+T		78.706		8.191		    3
+d		79.331		8.788		    3
+y		80.233		9.929		    3
+J		80.977		2.304		    1
+Q		85.801		2.993		    1
+H		86.059		0.166		    2
+c		86.372		2.059		    3
+L		88.471		5.049		    3
+i		88.952		1.858		    1
+m		89.750		6.066		    1
+b		91.950		1.541		    1
+B		91.961		0.717		    3
+k		94.482		9.689		    1
+Time Chart : [ -YYYYYYYYYYVVVVVVVVfffffffffuuuuuuppttttttttzMMMMlllllllDDDDDDDDKKAAAAAAAssjjjjjaaCCCCCCCIIIRRRRRRRR ]
+Simulation successful.
+Processes Name  Arrival Time    Expected Run Time   Priority
+Y		0.382		8.759		    1
+x		2.784		6.696		    4
+u		2.999		1.555		    1
+P		9.044		3.784		    3
+Z		9.326		2.587		    2
+U		11.256		9.119		    3
+y		16.559		1.197		    1
+g		17.974		4.309		    3
+i		19.009		1.122		    2
+O		20.659		2.357		    1
+N		21.696		2.995		    2
+W		22.248		0.296		    3
+p		22.909		1.616		    1
+H		23.054		8.169		    1
+h		23.197		1.476		    1
+c		25.789		1.764		    1
+T		27.847		5.769		    1
+I		29.611		0.783		    3
+k		30.763		6.426		    4
+r		42.127		8.270		    1
+j		42.645		6.903		    3
+q		42.676		9.888		    3
+n		42.850		4.756		    1
+a		44.481		5.286		    1
+M		46.600		2.588		    4
+J		47.994		8.229		    3
+b		48.088		7.641		    1
+K		48.779		1.513		    1
+e		50.143		7.002		    2
+S		51.423		9.572		    3
+s		53.021		2.070		    3
+d		54.803		8.358		    1
+A		58.895		4.629		    3
+V		60.441		0.169		    1
+o		60.974		4.852		    4
+E		62.251		1.380		    4
+m		63.684		5.762		    2
+G		67.781		0.488		    4
+f		68.270		0.363		    3
+R		68.432		5.053		    4
+B		72.265		3.159		    2
+v		72.360		3.427		    4
+l		75.029		4.843		    3
+z		77.044		5.375		    2
+t		77.447		9.484		    2
+Q		86.635		8.718		    2
+X		88.142		6.524		    2
+F		88.374		0.398		    2
+C		88.916		1.173		    1
+L		89.831		4.447		    1
+D		95.876		6.104		    3
+w		97.826		7.748		    1
+Time Chart : [ -YYYYYYYYYxxxxxxxuuPPPPZZZUUUUUUUUUUyygggggiiOOONNNWppHHHHHHHHHhhccTTTTTTIkkkkkkkrrrrrrrrrjjjjjjjqqqqqqqqqq ]
+Performance metrics for workload 1 :
+	Average Turnaround Time : 36.537
+	Average Waiting Time : 30.920
+	Average Response Time : 30.478
+	Throughput (processes per quanta): 0.162
+Performance metrics for workload 2 :
+	Average Turnaround Time : 19.562
+	Average Waiting Time : 15.014
+	Average Response Time : 14.512
+	Throughput (processes per quanta): 0.194
+Performance metrics for workload 3 :
+	Average Turnaround Time : 33.536
+	Average Waiting Time : 27.602
+	Average Response Time : 27.161
+	Throughput (processes per quanta): 0.154
+Performance metrics for workload 4 :
+	Average Turnaround Time : 40.200
+	Average Waiting Time : 35.176
+	Average Response Time : 34.700
+	Throughput (processes per quanta): 0.178
+Performance metrics for workload 5 :
+	Average Turnaround Time : 32.475
+	Average Waiting Time : 28.118
+	Average Response Time : 27.657
+	Throughput (processes per quanta): 0.204
+Average Performance metrics for all workload :
+Average Turnaround Time : 32.462
+Average Waiting Time : 27.366
+Average Response Time : 26.902
+Average Throughput : 0.178
+Ryan 🍙 |  ~/desktop/project
